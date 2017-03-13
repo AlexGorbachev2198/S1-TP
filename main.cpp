@@ -5,6 +5,7 @@
 using namespace std;
 int main(int argc, char *argv[])
 {
+	//изменения для ветки master
 	setlocale(LC_ALL, "rus");
 	if (argc > 1) {
 	string b1 = argv[1], b2 = argv[2];
